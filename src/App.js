@@ -1,11 +1,11 @@
 import logo from "./logo.svg";
-import AudioRecorder from "./AudioRecorder";
+import AudioRecorder2 from "./AudioRecorder2";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <AudioRecorder />
+      <AudioRecorder2 />
     </div>
   );
 }
